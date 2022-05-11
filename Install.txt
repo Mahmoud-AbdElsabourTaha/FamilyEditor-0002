@@ -1,0 +1,6 @@
+if the family editor.exe failed to  be installed
+do_____________________________________________________________
+Move the "Singularity " Folder to : C:\Program Files (x86)
+Move the "AppConnectorFamilyEditor " File to : C:\ProgramData\Autodesk\Revit\Addins\2021
+--------------------------------------
+2021 : is the revit version

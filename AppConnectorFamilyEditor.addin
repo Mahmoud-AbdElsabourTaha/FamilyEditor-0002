@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+		<AddIn Type="Application">
+		<Name>Family Editor</Name>
+		<Text>Family Editor</Text>
+		<Description>Family Editor</Description>
+		<Assembly>C:\Program Files (x86)\Singularity\RevitTemplate.dll</Assembly>
+		<FullClassName>RevitTemplate.RevitApplication</FullClassName>
+		<ClientId>7774A666-5C47-4EEB-8ADC-02A5A33D8202</ClientId>
+		<VendorId>SingularityAppId</VendorId>
+		<VendorDescription>SingularityApp</VendorDescription>
+	</AddIn>
+</RevitAddIns>
+
